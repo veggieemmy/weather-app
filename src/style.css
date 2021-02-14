@@ -47,3 +47,7 @@ ul {
   padding: 20px;
   margin-top: 10px;
 }
+.source-link {
+  margin: 0 auto;
+  display: block;
+}
